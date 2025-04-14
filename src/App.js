@@ -20,7 +20,11 @@ function App() {
 
         <section style={{ marginBottom: '40px' }}>
           <h2>🎨 Design Skills </h2>
-          <p>Figma, Adobe XD, Canva, HTML/CSS, Flexbox, Responsive Design, UX Research, Prototyping</p>
+          <p>Figma, Canva, HTML/CSS, Flexbox, Responsive Design, UX Research, Prototyping</p>
+        </section>
+        <section style={{ marginBottom: '40px' }}>
+          <h2>soft  skills</h2>
+          <p>problem solving</p>
         </section>
 
         <section>
