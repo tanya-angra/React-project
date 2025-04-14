@@ -25,6 +25,7 @@ function App() {
         <section style={{ marginBottom: '40px' }}>
           <h2>soft  skills</h2>
           <p>problem solving</p>
+          <p>technical code</p>
         </section>
 
         <section>
